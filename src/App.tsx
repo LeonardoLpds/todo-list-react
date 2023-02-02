@@ -1,9 +1,8 @@
 import './App.scss';
+import Home from './pages/Home/Home';
 
 export default function App() {
   return (
-    <div>
-      <h1>App Component</h1>
-    </div>
+    <Home />
   );
 }
